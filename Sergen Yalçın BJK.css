@@ -1,0 +1,82 @@
+body{
+    /* background-color: red; */
+    color: black;
+    margin-bottom: 5000px;
+   
+    /* background-position: center; */
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/1001/99/747/besiktas-j-k-eagle-karakartal-wallpaper-preview.jpg);
+    background-size: contain;                      
+    /* background-repeat:   no-repeat; */
+    /* background-position: center center;  */
+    /* border: 1px solid;
+    width: 20cm;
+    height: 10cm; */
+    background-attachment: fixed;
+    
+   
+   
+    
+}
+
+
+.container{
+    /* background-color: red; */
+    border: 25px black;
+    /* margin-bottom: 50px; */
+    max-height: 10px;
+    max-block-size: 100px;
+    
+    
+
+
+}
+
+.upper{
+    background-color: red;
+    /* border: 3px solid white; */
+    display: block;
+    box-shadow: 50px 50px 100px white;
+    border-radius: 55px;
+    margin-top: 600px;
+    margin: 55px;
+    
+}
+#sergen{
+    font-family: 'Lobster', cursive;
+    margin: 100px;
+    
+    
+}
+#yalcin{
+    color: white;
+}
+#home{
+    text-align: right;
+}
+
+#link{
+
+        text-decoration: none;
+        color: white;
+        /* border: 2px solid darkgoldenrod; */
+        padding: 1rem;
+        border-radius: 5px;
+        /* background-color: rgb(47, 45, 45); */
+    }
+
+    #link:hover{
+        
+        color: red;        
+    }
+    .text{ text-align: justify;
+
+    }
+    .lower{
+        margin: 150px;
+        text-align: justify;
+    }
+    #video{
+        justify-content: center;
+    }

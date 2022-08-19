@@ -12,7 +12,7 @@
 
 ## 🖥️Desktop version
 <br>
-<img src="/desktop.gif" width="400" height="400" align="left" alt="desktop_version">
+<img src="desktop.gif" width="400" height="400" align="left" alt="desktop_version">
 <br>
 <br>
 <br>

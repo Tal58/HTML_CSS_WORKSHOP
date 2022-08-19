@@ -3,7 +3,6 @@
 
 🎯 Challenge is to build out this landing page and get it looking as close to the professional design as possible..
 
-<br><br>
 🔗 To see live version 🎯
 <br>
 <center> ⌛ Happy Coding  ✍ </center>

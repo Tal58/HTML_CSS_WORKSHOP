@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 1vw;
+}
+body{
+    color: white;
+    text-align: center;
+   height: 100%;
+}
+.container { width: 100%; }
+
+.row { display: flex; 
+    flex-wrap: wrap; }
+
+.col-1 { width: 8.333333%; }
+
+.col-2 { width: 16.666667%; }
+
+.col-3 { width: 25%; }
+
+.col-4 { width: 33.333333%; }
+.logo{
+    background-color: #7fffd4;
+    padding: 1vw;
+}
+.menu{
+    background-color: #87cefa;
+    padding: 1vw;
+}
+.banner{
+    background-color: #ff0000;
+    align-items: center;
+    padding: 4vw;
+}
+.bol1, .bol2, .bol3{
+    background-color: #adff2f;
+    padding-left: 14vw;
+    padding-right: 14vw;
+    padding-bottom: 28vw;
+    border: 1px solid black;
+    align-items: flex-start;
+}
+.bol4{
+    background-color:#ff6347 ;
+    padding: 1vw;
+    border: 1px solid black;
+}
+.bol5{
+    background-color:#ff6347 ;
+    padding: 1vw;
+    border: 1px solid black;
+}
+.bol6{
+    background-color:#ff6347 ;
+    padding: 1vw;
+    border: 1px solid black;
+}
+.footer{
+    background-color:#ee82ee ;
+    padding: 2vw;
+
+}
+.col-5 { width: 41.666667%; }
+
+.col-6 { width: 50%; }
+
+.col-7 { width: 58.333333%; }
+
+.col-8 { width: 66.666667%; }
+
+.col-9 { width: 75%; }
+
+.col-10 { width: 83.333333%; }
+
+.col-11 { width: 91.666667%; }
+
+.col-12 { width: 100%; }

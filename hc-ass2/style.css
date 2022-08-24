@@ -38,6 +38,7 @@
 }
 .medmenu:hover{
     background-color: blueviolet;
+    transform: scale(130%);
 }
 .medmenu a{
     padding-left: 2.5%;

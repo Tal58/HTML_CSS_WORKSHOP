@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menu{
+    margin-top: 10%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: black;
+    width: 100%;    
+}
+
+.i{
+    width: 20%;
+    background-color: #bccc;
+    margin-left: 10%;
+}
+.i i{
+    transition: 2s;
+}
+.i i:hover{
+    transform: scale(150%);
+    color: red;
+}
+.medmenu{
+    padding: 0.5vw;;
+    text-align: center;
+    width: 30%;
+    margin: 0;
+    border: 1px solid grey;
+    height: 5vh;
+    border-radius: 1vw;
+    box-shadow: 5px 5px grey;
+    transition: 1s;
+    background-color: #ebf7ff;
+}
+.medmenu:hover{
+    background-color: blueviolet;
+}
+.medmenu a{
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    text-decoration: none;
+    transition: 1s;
+}
+.medmenu a:hover{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: aqua;
+    border-radius: 1vw;
+    color: white;
+
+}
+.menu nav{
+    width: 20%;
+    margin: 0;
+    background-color: #49a6e9;
+    text-align: right;
+    align-items: center;
+}
+.menu nav a{
+    text-decoration: none;
+}
+.socialmedia a{
+    transition: 1s;
+    color: black;
+}
+.socialmedia a:hover{
+    transform: scale(150%);
+    color: red;
+}
+
+@media (max-width: 800px) {
+    .medmenu {
+        padding-left: 5%;
+        padding-right: 5%;
+      flex-direction: column;
+      font-size: 5vw;
+      height: 20vw;
+    }
+  }

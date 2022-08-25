@@ -6,8 +6,7 @@ Purpose of the this coding challenge is to write a code that make a CSS Grid.
 
 👨‍💻 This challenge aims to improve my <b>HTML/CSS skills and ©️cloning abilities</b>.
 
-🔗 To see live version 🎯 https://tal58.github.io/HTML_CSS_WORKSHOP/Coding Challenge-CSS_Grid
-/
+🔗 To see live version 🎯 https://tal58.github.io/HTML_CSS_WORKSHOP/Coding_Challenge-CSS_Grid/
 
 
 ![CSS Grid](./css-grid.png)

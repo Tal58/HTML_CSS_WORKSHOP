@@ -19,7 +19,7 @@
 
 ##LIST OF REPOSITORY FILES 💾
 
-- Codecademy_HTML-CSS_solutions
+- [Codecademy_HTML-CSS_solutions](https://github.com/Tal58/Codecademy_HTML-CSS_solutions)
 - Python_Workshop
 - Codecademy_JavaScript_Solutions
 - HTML_CSS_WORKSHOP

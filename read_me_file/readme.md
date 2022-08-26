@@ -20,9 +20,9 @@
 ##LIST OF REPOSITORY FILES 💾
 
 - [Codecademy_HTML-CSS_solutions](https://github.com/Tal58/Codecademy_HTML-CSS_solutions)
-- Python_Workshop
-- Codecademy_JavaScript_Solutions
-- HTML_CSS_WORKSHOP
+- [Python_Workshop](https://github.com/Tal58/Python_Workshop)
+- [Codecademy_JavaScript_Solutions](https://github.com/Tal58/Codecademy_JavaScript_Solutions)
+- [HTML_CSS_WORKSHOP](https://github.com/Tal58/HTML_CSS_WORKSHOP)
 - JavaScript_workshop 
 - Team_Members_Page
 - Rock_Paper_Scissors_Game-JavaScript_Project

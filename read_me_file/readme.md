@@ -17,7 +17,7 @@
 🏇 I hope that the repository files will be open permanently and I will regularly add more practical examples. To get more information please follow my account.
 <br><br>
 
-##LIST OF REPOSITORY FILES 💾
+## <b>LIST OF REPOSITORY FILES<b> 💾
 
 - [Codecademy_HTML-CSS_solutions](https://github.com/Tal58/Codecademy_HTML-CSS_solutions)
 - [Python_Workshop](https://github.com/Tal58/Python_Workshop)

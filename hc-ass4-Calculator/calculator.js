@@ -111,20 +111,20 @@ class Calculator {
   const previousOperandTextElement = document.querySelector('[data-previous-operand]')
   const currentOperandTextElement = document.querySelector('[data-current-operand]')
 
-
-  
-  const calculator = new Calculator(previousOperandTextElement, currentOperandTextElement)
-  
- onButtons.forEach(button =>{
-  button.addEventListener('click', () => {
-  calculator.openlight();
- })
-})
+  const calculator = new Calculator(previousOperandTextElement, currentOperandTextElement);
+  onButtons.forEach(button =>{
+    button.addEventListener('click', () => {
+    calculator.clear();
+    calculator.updateDisplay();
+    calculator.openlight();    
+   }) 
+  })
+ 
 offButtons.forEach(button =>{
   button.addEventListener('click', () => {
   calculator.closelight();
   calculator.clear();
-    calculator.updateDisplay();
+  calculator.updateDisplay();
  })
 })
   numberButtons.forEach(button => {

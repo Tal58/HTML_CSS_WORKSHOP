@@ -123,6 +123,8 @@ class Calculator {
 offButtons.forEach(button =>{
   button.addEventListener('click', () => {
   calculator.closelight();
+  calculator.clear();
+    calculator.updateDisplay();
  })
 })
   numberButtons.forEach(button => {

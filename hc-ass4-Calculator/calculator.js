@@ -4,8 +4,13 @@ class Calculator {
       this.currentOperandTextElement = currentOperandTextElement
       this.clear()
     }
-  
-    clear() {
+    welcome(){
+      this.previousOperandTextElement.innerText = "Welcome";  
+    }
+    close(){
+      this.previousOperandTextElement.innerText = "Mihail Tal was here";      
+    }
+      clear() {
       this.currentOperand = ''
       this.previousOperand = ''
       this.operation = undefined
@@ -116,15 +121,17 @@ class Calculator {
     button.addEventListener('click', () => {
     calculator.clear();
     calculator.updateDisplay();
-    calculator.openlight();    
+    calculator.openlight(); 
+    calculator.welcome();
    }) 
   })
  
 offButtons.forEach(button =>{
   button.addEventListener('click', () => {
-  calculator.closelight();
   calculator.clear();
-  calculator.updateDisplay();
+  calculator.updateDisplay();  
+  calculator.close();
+  setTimeout(calculator.closelight(),3000); 
  })
 })
   numberButtons.forEach(button => {

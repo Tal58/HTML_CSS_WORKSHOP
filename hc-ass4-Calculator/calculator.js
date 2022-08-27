@@ -88,7 +88,7 @@ class Calculator {
     }
     openlight(){
       var element = document.getElementById("screen");
-      return element.style.backgroundColor = "white";
+      return element.style.backgroundColor = "cornsilk";
       
     }
     closelight(){

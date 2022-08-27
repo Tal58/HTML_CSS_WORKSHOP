@@ -7,7 +7,9 @@
 🔗 To see live version 🎯
 
 <center> ⌛ Happy Coding  ✍ </center>
-## 🖥️Desktop version
 <br>
+
+##  🖥️Desktop version
+
 <img src="./calculator.gif" align="left" alt="desktop_version">
 

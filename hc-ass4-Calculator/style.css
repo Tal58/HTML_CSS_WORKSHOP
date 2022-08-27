@@ -30,7 +30,7 @@ body {
         "s7 s8 s9 sX"
         "s4 s5 s6 m"
         "s1 s2 s3 pl"
-        "s0 s0 po e";
+        "on off s0 e";
     color: white;
 }
 
@@ -58,7 +58,7 @@ body {
     margin: 3%;
     border-radius: 2vw;
     transition: 1s;
-    color: white;
+    color: black;
     font-size: 3vw;
     display: flex;
     justify-content: center;
@@ -138,17 +138,19 @@ body {
     grid-area: pl;
     background-color: #f1a33c ;
 }
-
+.on{
+    grid-area: on;
+    border-radius: 1vw;
+}
+.off{
+    grid-area: off;
+    border-radius: 1vw;
+}
 .zero {
     grid-area: s0;
     border-radius: 2vw;
 }
 
-.point {
-    grid-area: po;
-}
-
 .equal {
     grid-area: e;
 }
-

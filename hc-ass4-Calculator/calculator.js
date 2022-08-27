@@ -86,9 +86,23 @@ class Calculator {
         this.previousOperandTextElement.innerText = ''
       }
     }
+    openlight(){
+      var element = document.getElementById("screen");
+      return element.style.backgroundColor = "white";
+      
+    }
+    closelight(){
+      var element = document.getElementById("screen");
+      return element.style.backgroundColor = "black";
+    }
   }
   
+
+    
   
+  
+  const onButtons = document.querySelectorAll('[data-on]')
+  const offButtons = document.querySelectorAll('[data-off]')
   const numberButtons = document.querySelectorAll('[data-number]')
   const operationButtons = document.querySelectorAll('[data-operation]')
   const equalsButton = document.querySelector('[equal]')
@@ -96,36 +110,49 @@ class Calculator {
   const allClearButton = document.querySelector('[ac]')
   const previousOperandTextElement = document.querySelector('[data-previous-operand]')
   const currentOperandTextElement = document.querySelector('[data-current-operand]')
+
+
   
   const calculator = new Calculator(previousOperandTextElement, currentOperandTextElement)
   
+ onButtons.forEach(button =>{
+  button.addEventListener('click', () => {
+  calculator.openlight();
+ })
+})
+offButtons.forEach(button =>{
+  button.addEventListener('click', () => {
+  calculator.closelight();
+ })
+})
   numberButtons.forEach(button => {
     button.addEventListener('click', () => {
       calculator.appendNumber(button.innerText)
-      calculator.updateDisplay()
+      calculator.updateDisplay()  
     })
+    
   })
   
   operationButtons.forEach(button => {
     button.addEventListener('click', () => {
       calculator.chooseOperation(button.innerText)
-      calculator.updateDisplay()
+      calculator.updateDisplay(); 
     })
   })
   
   equalsButton.addEventListener('click', button => {
-    calculator.compute()
-    calculator.updateDisplay()
+    calculator.compute();
+    calculator.updateDisplay();
   })
   
   allClearButton.addEventListener('click', button => {
     calculator.clear()
-    calculator.updateDisplay()
+    calculator.updateDisplay();
   })
   
   deleteButton.addEventListener('click', button => {
     calculator.delete()
-    calculator.updateDisplay()
+    calculator.updateDisplay();
   })
   
   document.addEventListener('keydown', function (event) {

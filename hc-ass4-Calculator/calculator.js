@@ -100,12 +100,8 @@ class Calculator {
       var element = document.getElementById("screen");
       return element.style.backgroundColor = "black";
     }
-  }
-  
+  } 
 
-    
-  
-  
   const onButtons = document.querySelectorAll('[data-on]')
   const offButtons = document.querySelectorAll('[data-off]')
   const numberButtons = document.querySelectorAll('[data-number]')

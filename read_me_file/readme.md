@@ -18,6 +18,7 @@
 <br><br>
 
 ## <b>LIST OF REPOSITORY FILES<b> 💾
+- [JavaScript_DOM_Manipulations](https://github.com/Tal58/JavaScript_DOM_Manipulations)
 - [Text Editor | Dynamic Landing Page | JavaScript Project](https://github.com/Tal58/Text_Editor)
 - [Codecademy_HTML-CSS_solutions](https://github.com/Tal58/Codecademy_HTML-CSS_solutions)
 - [Python_Workshop](https://github.com/Tal58/Python_Workshop)

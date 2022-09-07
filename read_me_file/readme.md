@@ -18,6 +18,7 @@
 <br><br>
 
 ## <b>LIST OF REPOSITORY FILES<b> 💾
+- [Bootstrap_Workshop] (https://github.com/Tal58/Bootstrap_Workshop)
 - [HTML_CSS_Workshop_with_SCSS](https://github.com/Tal58/HTML_CSS_Workshop_with_SCSS)
 - [JavaScript_DOM_Manipulations](https://github.com/Tal58/JavaScript_DOM_Manipulations)
 - [Text Editor | Dynamic Landing Page | JavaScript Project](https://github.com/Tal58/Text_Editor)

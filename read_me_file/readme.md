@@ -22,6 +22,8 @@
 - [Bootstrap_Workshop](https://github.com/Tal58/Bootstrap_Workshop)
 - [HTML_CSS_Workshop_with_SCSS](https://github.com/Tal58/HTML_CSS_Workshop_with_SCSS)
 - [JavaScript_DOM_Manipulations](https://github.com/Tal58/JavaScript_DOM_Manipulations)
+- [Solutions_of_Front End Development Libraries_in-freeCodeCamp](https://github.com/Tal58/freeCodeCamp_Front-End-Development-Libraries.git)
+- [Solutions_of_JavaScript_Algorithms_and_Data_Structures_in-freeCodeCamp](https://github.com/Tal58/Solutions_of_JavaScript_Algorithms_and_Data_Structures_in-freeCodeCamp)
 - [Text Editor | Dynamic Landing Page | JavaScript Project](https://github.com/Tal58/Text_Editor)
 - [Codecademy_HTML-CSS_solutions](https://github.com/Tal58/Codecademy_HTML-CSS_solutions)
 - [Python_Workshop](https://github.com/Tal58/Python_Workshop)
@@ -42,7 +44,6 @@
 - [Voltran_HTML-CSS_webpage](https://github.com/Tal58/Voltran_HTML-CSS_webpage)
 - [Survey_Form_page](https://github.com/Tal58/Survey_Form_page)
 - [Basic-Survey-Form](https://github.com/Tal58/Basic-Survey-Form)
-- [Solutions_of_JavaScript_Algorithms_and_Data_Structures_in-freeCodeCamp](https://github.com/Tal58/Solutions_of_JavaScript_Algorithms_and_Data_Structures_in-freeCodeCamp)
 - [BJK_registration_form](https://github.com/Tal58/BJK_registration_form)
 
 

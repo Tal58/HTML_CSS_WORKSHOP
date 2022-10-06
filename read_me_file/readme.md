@@ -24,6 +24,7 @@
 - [JavaScript_DOM_Manipulations](https://github.com/Tal58/JavaScript_DOM_Manipulations)
 - [Solutions_of_Front End Development Libraries_in-freeCodeCamp](https://github.com/Tal58/freeCodeCamp_Front-End-Development-Libraries.git)
 - [Solutions_of_JavaScript_Algorithms_and_Data_Structures_in-freeCodeCamp](https://github.com/Tal58/Solutions_of_JavaScript_Algorithms_and_Data_Structures_in-freeCodeCamp)
+- [patika.dev_solutions](https://github.com/Tal58/patika.dev_solutions)
 - [Text Editor | Dynamic Landing Page | JavaScript Project](https://github.com/Tal58/Text_Editor)
 - [Codecademy_HTML-CSS_solutions](https://github.com/Tal58/Codecademy_HTML-CSS_solutions)
 - [Python_Workshop](https://github.com/Tal58/Python_Workshop)

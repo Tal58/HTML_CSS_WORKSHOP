@@ -19,6 +19,7 @@
 
 ## <b>LIST OF REPOSITORY FILES<b> 💾
 
+- [LIST OF REDUX PROJECTS](https://github.com/Tal58/HTML_CSS_WORKSHOP/tree/master/read_me_file%20-%202)
 - [LIST OF REACT PROJECTS](https://github.com/Tal58/HTML_CSS_WORKSHOP/tree/master/read_me_file%20-%202)
 - [API_WORKSHOP](https://github.com/Tal58/API_WORKSHOP)
 - [Bootstrap_Workshop](https://github.com/Tal58/Bootstrap_Workshop)

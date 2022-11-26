@@ -26,6 +26,7 @@
 - [styled_components_react_bjk](https://github.com/Tal58/styled_components_react_bjk)
 - [friend_tracker_app](https://github.com/Tal58/friend_tracker_app)
 - [to_do_withReact](https://github.com/Tal58/to_do_withReact)
+- [adopt-a-pet-starter-codecademy](https://github.com/Tal58/adopt-a-pet-starter-codecademy)
 - [programming_language_cards_with_react](https://github.com/Tal58/programming_language_cards_with_react)
 - [employee_list_with_React](https://github.com/Tal58/employee_list_with_React)
 - [patika.dev_solutions](https://github.com/Tal58/patika.dev_solutions)
